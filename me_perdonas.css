@@ -7,18 +7,18 @@ div {
 
 h1 {
     padding: 10px;
-    color: #711DB0;
+    color: #purple;
 }
 
 
 
 button {
-    color: brown;
+    color: pink;
     width: 80px;
     height: 40px;
     border: 3px solid #711DB0;
     border-radius: 10px;
-    background-color: transparent;
+    background-color: sky blue;
     font-size: xx-large;
     
 }
